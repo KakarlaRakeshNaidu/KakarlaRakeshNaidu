@@ -1,3 +1,4 @@
+<!-- IMPORTANT: This file must be named README.md in the KakarlaRakeshNaidu profile repository. -->
 <!-- ═══════════════════════════════════════════════════════════
      RAKESH NAIDU · GITHUB ENGINEERING PORTFOLIO
      github.com/KakarlaRakeshNaidu
@@ -294,21 +295,50 @@ Completed the McKinsey Forward Program with focus on **structured thinking, anal
 
 <div align="center">
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KakarlaRakeshNaidu&theme=github_dark" alt="GitHub profile details"/>
+<!--
+All GitHub analytics below use github-profile-summary-cards
+(except the streak card) to avoid broken/rate-limited image providers.
+-->
 
-<br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KakarlaRakeshNaidu&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&include_all_commits=true" alt="GitHub stats"/>
-<img width="48%" src="https://streak-stats.demolab.com?user=KakarlaRakeshNaidu&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
-
-<br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakarlaRakeshNaidu&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KakarlaRakeshNaidu&theme=github_dark&utcOffset=5.5" alt="Productive time"/>
+<img
+  width="96%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KakarlaRakeshNaidu&theme=github_dark"
+  alt="Rakesh Naidu GitHub contribution overview"
+/>
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=KakarlaRakeshNaidu&theme=github-compact&hide_border=true&area=true&custom_title=ENGINEERING%20ACTIVITY" alt="Contribution activity"/>
+<img
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KakarlaRakeshNaidu&theme=github_dark"
+  alt="GitHub statistics"
+/>
+<img
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KakarlaRakeshNaidu&theme=github_dark&utcOffset=5.5"
+  alt="GitHub productive time"
+/>
+
+<br/><br/>
+
+<img
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KakarlaRakeshNaidu&theme=github_dark"
+  alt="Languages by repository"
+/>
+<img
+  width="48%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KakarlaRakeshNaidu&theme=github_dark"
+  alt="Languages by commits"
+/>
+
+<br/><br/>
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=KakarlaRakeshNaidu&theme=github-dark-blue&hide_border=true"
+  alt="GitHub contribution streak"
+/>
 
 </div>
 
@@ -353,8 +383,6 @@ Completed the McKinsey Forward Program with focus on **structured thinking, anal
 **+91-9346717670**
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=KakarlaRakeshNaidu&style=for-the-badge&label=PROFILE+VISITS&color=2563EB" alt="Profile views"/>
 
 <br/><br/>
 
