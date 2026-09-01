@@ -380,9 +380,6 @@ All GitHub analytics below use github-profile-summary-cards
 <br/><br/>
 
 **work.rakeshnaidu@gmail.com**  
-**+91-9346717670**
-
-<br/>
 
 <br/><br/>
 
