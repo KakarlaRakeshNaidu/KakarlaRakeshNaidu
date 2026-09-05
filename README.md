@@ -39,7 +39,7 @@
 ```text
 Kakarla Rakesh Naidu
 │
-├─ Focus          Full-Stack Software Engineering
+├─ Focus           Software Engineering
 ├─ Institute      Indian Institute of Information Technology, Kota
 ├─ Degree         B.Tech · Electronics and Communication Engineering
 ├─ Timeline       2023 — 2027
