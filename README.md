@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:020617,35:172554,70:1E3A8A,100:2563EB&text=RAKESH%20NAIDU&fontColor=F8FAFC&fontSize=58&fontAlignY=42&desc=FULL-STACK%20ENGINEER%20%E2%80%A2%20SYSTEM%20BUILDER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=63&descSize=16&animation=fadeIn" alt="Rakesh Naidu" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=260&color=0:020617,35:172554,70:1E3A8A,100:2563EB&text=RAKESH%20NAIDU&fontColor=F8FAFC&fontSize=58&fontAlignY=38&desc=FULL-STACK%20ENGINEER%20%E2%80%A2%20SYSTEM%20BUILDER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=58&descSize=16&animation=fadeIn" alt="Rakesh Naidu" />
 
 <br/>
 
