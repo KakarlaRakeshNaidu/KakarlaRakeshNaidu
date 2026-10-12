@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&multiline=false&repeat=true&width=900&lines=Engineering+complete+products%2C+not+isolated+features.;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+PostgreSQL;REST+APIs+%C2%B7+Authentication+%C2%B7+RBAC+%C2%B7+Applied+AI;630%2B+DSA+problems+solved+across+LeetCode+%26+GFG" alt="Engineering focus" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=2563EB&center=true&vCenter=true&multiline=false&repeat=true&width=900&lines=Engineering+complete+products%2C+not+isolated+features.;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+PostgreSQL;REST+APIs+%C2%B7+Authentication+%C2%B7+RBAC+%C2%B7+Applied+AI;630%2B+DSA+problems+solved+across+LeetCode+%26+GFG" alt="Engineering focus" />
 
 <br/><br/>
 
